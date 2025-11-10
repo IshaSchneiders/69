@@ -3,8 +3,8 @@ project:
   id: 7204695b-7485-4989-863c-16cf6e4db155
   title: Thermoproject IP2
   authors: 
-    - name: Aragon van Doesburg
-    - name: IshaSchneiders
+    - name: Freek Pols
+    - name: Roel Smit
 
   date: 2025-11-05
   github: https://github.com/IshaSchneiders/69.git # Change this URL to your GitHub repository

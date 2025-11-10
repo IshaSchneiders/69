@@ -1,6 +1,6 @@
 # Portfolio opzetten (1h)
 
-Dit is de GitHub repository voor het thermodynamica deel van IP2.
+Dit is de GitHub repository voor het thermodynamica deel van IP2. GUH
 De bedoeling is dat je deze repository kloont en je vervolgens samen met je labpartner zelf een 'website / portfolio' bouwt op basis van jullie werk. 
 
 Per duo volgt een de onderstaande stappen waarna de anderen uitgenodigd worden om bij te dragen aan deze repository.
