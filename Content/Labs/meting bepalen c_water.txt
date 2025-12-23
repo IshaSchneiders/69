@@ -1,0 +1,16 @@
+meting bepalen c_water
+begintemp=16.8
+eindtemp=19.6
+verstreken_tijd=123.72 #sec
+
+begin2=21.1
+eind2=22
+tijd2=50.86 #sec
+
+begin3=22.6
+eind3=23.6
+tijd_3=68.18
+
+begin4=23.9
+eind4=24.5
+tijd=23.45
